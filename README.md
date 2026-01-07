@@ -6,12 +6,15 @@ INTERN ID:CTISO515
 
 **Introduction**
 
-Text generation is an important task in Natural Language Processing (NLP) that focuses on generating meaningful and coherent text automatically. With the rapid growth of artificial intelligence, text generation models are widely used in chatbots, content creation, recommendation systems, and automated writing tools.This project implements a text generation model using Long Short-Term Memory (LSTM) networks, which are a type of Recurrent Neural Network (RNN) designed to learn long-term dependencies in sequential data.
+Text generation is an important task in Natural Language Processing (NLP) that focuses on generating meaningful and coherent text automatically. 
+With the rapid growth of artificial intelligence, text generation models are widely used in chatbots, content creation, recommendation systems, and automated writing tools.
+This project implements a text generation model using Long Short-Term Memory (LSTM) networks, which are a type of Recurrent Neural Network (RNN) designed to learn long-term dependencies in sequential data.
 
 **Project Overview**
 
 The objective of this project is to build a text generation system that can generate coherent paragraphs based on user-provided prompts.
-The model is trained using topic-based textual data and learns the sequence and structure of words. After training, the model predicts the next word iteratively to generate meaningful text related to the given topic.
+The model is trained using topic-based textual data and learns the sequence and structure of words.
+After training, the model predicts the next word iteratively to generate meaningful text related to the given topic.
 
 Key Features:
 
@@ -141,5 +144,5 @@ Future improvements may include using larger datasets, pretrained language model
 
 
 
-Implemented in Google Colab
+
 
